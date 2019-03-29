@@ -1,3 +1,8 @@
+NOTICE OF DEPRECATION
+===
+
+sorry i dont want to do this anymore
+
 <img src="is-thirteen-logo.png">
 
 _Special thanks to [@casdr](https://github.com/casdr) for the logo_
